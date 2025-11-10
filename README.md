@@ -9,14 +9,14 @@ The ImperaCert Digital Autopsy Expert course provides comprehensive, practical t
 You will gain essential hands-on experience using live tools and real-world scenarios, including complex investigations like a digital autopsy (suicide case). A core competency of this course is Deleted File Recovery, teaching advanced techniques like File Carving to retrieve critical evidence from unallocated space. Furthermore, you will master Keyword Search techniques and deep metadata analysis required for reconstructing complex user timelines. <br>
 
 
-# After This Course
-A. Foundational Forensic Methodology and Autopsy Mastery
-B. Advanced Digital Artifact Analysis and Data Retrieval
-C. Specialized Device Forensics (Mobile and UAV)
-D. Legal Reporting and Investigative Conclusion
+# After This Course </br>
+A. Foundational Forensic Methodology and Autopsy Mastery </br>
+B. Advanced Digital Artifact Analysis and Data Retrieval </br>
+C. Specialized Device Forensics (Mobile and UAV) </br>
+D. Legal Reporting and Investigative Conclusion </br>
 
 
-# 💻 Full Free Course Links and Certification:  </br>
+# 💻 Full Free Course Links and Certification:  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  </br>
 
 Full CHFI course free - CHFI courseware - [View Full Course free](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5).  </br>
@@ -26,15 +26,15 @@ About Trainer - [Priyank Gada](https://www.priyankgada.com)  </br>
 LinkedIn Connect for Job/Career Guidance - [Priyank Gada](https://www.linkedin.com/in/priyankgada)  </br>
 Instagram for Future Updates - [Priyank Gada](https://www.instagram.com/gada.priyank)  </br>
 
-# 💻 Module 0: How to learn with ImperaCert
-This module covers how you can get certification with ImperaCert Digital Autopsy Expert and also make the most out of the course.
+# 💻 Module 0: How to learn with ImperaCert 
+This module covers how you can get certification with ImperaCert Digital Autopsy Expert and also make the most out of the course. </br>
 [Lecture 0.1 - Interacting with Github Repo](https://www.iserpent.com) </br>
 [Lecture 0.2 - Learn from ImperaCert](https://www.iserpent.com) </br>
 [Lecture 0.3 - Get Certified](https://www.iserpent.com) </br>
 [Lecture 0.4 - Future and Career Guidance](https://www.iserpent.com) </br>
 [Lecture 0.5 - How to get certificate with ImperaCert](https://www.iserpent.com) </br>
 
-# 💻 Module 1: Lab Setup for Autopsy
+# 💻 Module 1: Lab Setup for Autopsy </br>
 This Module covers how to setup autopsy lab and what is virtualization and how to install kali linux and forensics toolkit </br>
 [Lecture 1.1 - Evalution Copy of Windows OS](https://www.iserpent.com) </br>
 [Lecture 1.2 - Virtualisation for Forensics Toolkit](https://www.iserpent.com) </br>
