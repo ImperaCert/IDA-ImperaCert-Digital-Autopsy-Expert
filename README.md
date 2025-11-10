@@ -19,9 +19,9 @@ D. Legal Reporting and Investigative Conclusion </br>
 # 💻 Full Free Course Links and Certification:  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  </br>
 
-Full CHFI course free - CHFI courseware - [View Full Course free](https://www.youtube.com/watch?v=X3-bTQpx7T8&list=PLNoxDhp7acwq_hxQxHotIgRZG-GVzi5x5).  </br>
+Full CHFI course - CHFI courseware - [View Full Course free](https://www.udemy.com/user/imperaware/).  </br>
 Certification Coupon Free CHFI coupon and Exam voucher - [Get Certified](https://www.iSerpent.com)  </br>
-Udemy Certification for this course - [Get this course on udemy](https://www.udemy.com/user/priyank-gada/)  </br>
+Udemy Certification for this course - [Get this course on udemy](https://www.udemy.com/user/imperaware/)  </br>
 About Trainer - [Priyank Gada](https://www.priyankgada.com)  </br>
 LinkedIn Connect for Job/Career Guidance - [Priyank Gada](https://www.linkedin.com/in/priyankgada)  </br>
 Instagram for Future Updates - [Priyank Gada](https://www.instagram.com/gada.priyank)  </br>
